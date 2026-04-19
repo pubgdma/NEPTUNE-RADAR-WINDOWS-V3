@@ -16,8 +16,8 @@ This build uses a single launcher, optional password protection, and optional mu
    
 Use the radar in a desktop or mobile browser.
 
-- Desktop browsers open the normal desktop layout automatically.
-- Mobile phones open the mobile layout automatically.
+- Desktop browsers open the normal desktop layout automatically
+- Mobile phones open the mobile layout automatically
 - If needed, you can force a view manually:
     - Desktop: http://127.0.0.1:7823/?view=desktop
     - Mobile: http://127.0.0.1:7823/?view=mobile
