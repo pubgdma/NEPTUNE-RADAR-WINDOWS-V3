@@ -14,17 +14,14 @@ This build uses a single launcher, optional password protection, and optional mu
 5. Open the radar in your browser:
    - `http://127.0.0.1:7823`
    
-Use the radar in a desktop or mobile browser.
-
-- Desktop browsers open the normal desktop layout automatically
-- Mobile phones open the mobile layout automatically
-- If needed, you can force a view manually:
-    - Desktop: http://127.0.0.1:7823/?view=desktop
-    - Mobile: http://127.0.0.1:7823/?view=mobile
-
-  The default radar address stays:
-
-  - http://127.0.0.1:7823/
+  Use the radar in a desktop or mobile browser.
+  - Desktop browsers open the normal desktop layout automatically.
+  - Mobile phones open the mobile layout automatically.
+  - If needed, you can force a view manually:
+    - Desktop: `http://127.0.0.1:7823/?view=desktop`
+    - Mobile: `http://127.0.0.1:7823/?view=mobile`
+	
+  - Default radar address: `http://127.0.0.1:7823/`
 
 ## Updating
 
