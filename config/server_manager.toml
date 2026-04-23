@@ -1,2 +1,3 @@
 language = "en"
-managed_ports = []
+start_port = 7823
+managed_ports = [7823]
